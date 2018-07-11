@@ -1,6 +1,6 @@
 # Arithmetic Expressions
 
-The original Python homework was to reinfoce variable assignment and arithmetic expressions by caluclating annual salary if paid every two weeks and bi-weekly.
+The original Python homework was to reinforce variable assignment and arithmetic expressions by calculating annual salary if paid every two weeks and bi-weekly.
 
 ### Original Assignment
 
