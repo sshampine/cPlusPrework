@@ -6,5 +6,5 @@ My goal for this repo is to help prepare me for my upcoming C++ credit course. I
 
 * Old Python Code
 * Dev C++ IDE
-* Micorosft VS Code
+* Microsoft VS Code
 * [LearnCpp.com](http://www.learncpp.com)
