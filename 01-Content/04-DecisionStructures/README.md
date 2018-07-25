@@ -15,7 +15,8 @@ Write a program that asks for the number of units sold and computes the total co
 ### Output
 
 ```Number of units purchased is: 
-Discount applied is: Total savings due to discount is: 
+Discount applied is: 
+Total savings due to discount is: 
 The total cost of the purchase is:
 ```
 
